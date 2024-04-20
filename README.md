@@ -1,7 +1,10 @@
-Password Check Uygulaması
+## **Şifre Kontrol Uygulaması**
+
+
+
 Bu Java programı, kullanıcıların güçlü şifreler oluşturmasına ve şifrelerinin güvenliğini kontrol etmelerine yardımcı olur.
 
-Kullanım
+### **Kullanım**
 Bu uygulamayı kullanmak için Java çalışma zamanına ihtiyacınız vardır.
 
 Proje klasörüne gidin.
@@ -12,6 +15,7 @@ Uygulama, kullanıcıya aşağıdaki seçenekleri sunar:
 Şifre Oluşturucu: Kullanıcı, istediği uzunlukta ve belirli kriterlere göre bir şifre oluşturabilir.
 Şifre Uzunluk Kontrolü: Kullanıcı, girdiği şifrenin güvenlik seviyesini kontrol edebilir.
 Kullanışlı Bilgi: Kullanıcıya, güçlü şifreler oluşturmak için bazı ipuçları ve güvenlik önerileri sunulur.
+
 | Özellik | Açıklama |
 |---|---|
 | Kullanıcı dostu arayüz | Kullanımı kolay ve anlaşılır arayüz. |
