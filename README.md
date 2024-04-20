@@ -9,7 +9,9 @@ Bu Java programı, kullanıcıların güçlü şifreler oluşturmasına ve şifr
 Bu uygulamayı kullanmak için Java çalışma zamanına ihtiyacınız vardır. Aşağıdaki adımları izleyerek uygulamayı çalıştırabilirsiniz:
 
 **1. Proje klasörüne gidin.**
+
 **2. Main.java dosyasını derleyin:** `javac Main.java` komutunu kullanarak `Main.java` dosyasını derleyin.
+
 **3. Oluşturulan Main.class dosyasını çalıştırın:** `java Main` komutunu kullanarak `Main.class` dosyasını çalıştırın.
 
 
