@@ -4,7 +4,7 @@ Bu Java programı, kullanıcıların güçlü şifreler oluşturmasına ve şifr
 
 
 
-## **Kullanım**
+## **Kullanım** 
 
 Bu uygulamayı kullanmak için Java çalışma zamanına ihtiyacınız vardır. Aşağıdaki adımları izleyerek uygulamayı çalıştırabilirsiniz:
 
